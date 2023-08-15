@@ -382,3 +382,7 @@ body {
     margin-top: 40px !important; } }
 
 /*# sourceMappingURL=style.css.map */
+
+.forget-p a {
+  color: rgb(200,46,51);
+}
